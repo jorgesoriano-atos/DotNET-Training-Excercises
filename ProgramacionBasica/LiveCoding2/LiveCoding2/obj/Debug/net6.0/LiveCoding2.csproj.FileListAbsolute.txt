@@ -1,0 +1,15 @@
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\bin\Debug\net6.0\LiveCoding2.exe
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\bin\Debug\net6.0\LiveCoding2.deps.json
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\bin\Debug\net6.0\LiveCoding2.runtimeconfig.json
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\bin\Debug\net6.0\LiveCoding2.dll
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\bin\Debug\net6.0\ref\LiveCoding2.dll
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\bin\Debug\net6.0\LiveCoding2.pdb
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.csproj.AssemblyReference.cache
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.AssemblyInfoInputs.cache
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.AssemblyInfo.cs
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.csproj.CoreCompileInputs.cache
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.dll
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\ref\LiveCoding2.dll
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.pdb
+C:\Users\a846809\source\repos\LiveCoding2\LiveCoding2\obj\Debug\net6.0\LiveCoding2.genruntimeconfig.cache

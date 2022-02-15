@@ -1,0 +1,15 @@
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\bin\Debug\net6.0\LiveCodingSnake.exe
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\bin\Debug\net6.0\LiveCodingSnake.deps.json
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\bin\Debug\net6.0\LiveCodingSnake.runtimeconfig.json
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\bin\Debug\net6.0\LiveCodingSnake.dll
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\bin\Debug\net6.0\ref\LiveCodingSnake.dll
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\bin\Debug\net6.0\LiveCodingSnake.pdb
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.csproj.AssemblyReference.cache
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.AssemblyInfoInputs.cache
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.AssemblyInfo.cs
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.csproj.CoreCompileInputs.cache
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.dll
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\ref\LiveCodingSnake.dll
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.pdb
+C:\Users\a846809\source\repos\LiveCodingSnake\LiveCodingSnake\obj\Debug\net6.0\LiveCodingSnake.genruntimeconfig.cache

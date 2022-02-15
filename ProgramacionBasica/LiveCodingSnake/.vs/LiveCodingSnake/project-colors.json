@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ade8990-f84b-440b-a120-cce3c0d3adbf": {
+      "ProjectGuid": "4ade8990-f84b-440b-a120-cce3c0d3adbf",
+      "DisplayName": "LiveCodingSnake",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
