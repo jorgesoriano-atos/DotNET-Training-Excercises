@@ -1,0 +1,8 @@
+C:\Users\a846809\source\repos\EjemploAbstract\bin\Debug\EjemploAbstract.exe.config
+C:\Users\a846809\source\repos\EjemploAbstract\bin\Debug\EjemploAbstract.exe
+C:\Users\a846809\source\repos\EjemploAbstract\bin\Debug\EjemploAbstract.pdb
+C:\Users\a846809\source\repos\EjemploAbstract\obj\Debug\EjemploAbstract.csproj.AssemblyReference.cache
+C:\Users\a846809\source\repos\EjemploAbstract\obj\Debug\EjemploAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\a846809\source\repos\EjemploAbstract\obj\Debug\EjemploAbstract.csproj.CoreCompileInputs.cache
+C:\Users\a846809\source\repos\EjemploAbstract\obj\Debug\EjemploAbstract.exe
+C:\Users\a846809\source\repos\EjemploAbstract\obj\Debug\EjemploAbstract.pdb
