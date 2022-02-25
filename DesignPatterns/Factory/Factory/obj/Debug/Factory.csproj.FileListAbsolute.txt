@@ -1,0 +1,8 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\obj\Debug\Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Factory\Factory\obj\Debug\Factory.pdb

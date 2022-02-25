@@ -1,0 +1,14 @@
+C:\Users\a846809\source\repos\Calculator\bin\Debug\net6.0\CalculatorExample.exe
+C:\Users\a846809\source\repos\Calculator\bin\Debug\net6.0\CalculatorExample.deps.json
+C:\Users\a846809\source\repos\Calculator\bin\Debug\net6.0\CalculatorExample.runtimeconfig.json
+C:\Users\a846809\source\repos\Calculator\bin\Debug\net6.0\CalculatorExample.dll
+C:\Users\a846809\source\repos\Calculator\bin\Debug\net6.0\ref\CalculatorExample.dll
+C:\Users\a846809\source\repos\Calculator\bin\Debug\net6.0\CalculatorExample.pdb
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.AssemblyInfoInputs.cache
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.AssemblyInfo.cs
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.dll
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\ref\CalculatorExample.dll
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.pdb
+C:\Users\a846809\source\repos\Calculator\obj\Debug\net6.0\CalculatorExample.genruntimeconfig.cache

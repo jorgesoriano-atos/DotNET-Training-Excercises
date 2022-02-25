@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\bin\Debug\net6.0\SingletonExample.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\bin\Debug\net6.0\SingletonExample.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\bin\Debug\net6.0\SingletonExample.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\bin\Debug\net6.0\SingletonExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\bin\Debug\net6.0\ref\SingletonExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\bin\Debug\net6.0\SingletonExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\ref\SingletonExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Singleton\SingletonExample\obj\Debug\net6.0\SingletonExample.genruntimeconfig.cache
