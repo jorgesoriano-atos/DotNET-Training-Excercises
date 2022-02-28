@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\bin\Debug\net6.0\AbstractFactoryExample.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\bin\Debug\net6.0\AbstractFactoryExample.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\bin\Debug\net6.0\AbstractFactoryExample.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\bin\Debug\net6.0\AbstractFactoryExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\bin\Debug\net6.0\ref\AbstractFactoryExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\bin\Debug\net6.0\AbstractFactoryExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\ref\AbstractFactoryExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\AbstractFactory\AbstractFactoryExample\obj\Debug\net6.0\AbstractFactoryExample.genruntimeconfig.cache
