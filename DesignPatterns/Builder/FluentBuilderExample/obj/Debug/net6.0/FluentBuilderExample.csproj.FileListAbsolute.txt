@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\bin\Debug\net6.0\FluentBuilderExample.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\bin\Debug\net6.0\FluentBuilderExample.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\bin\Debug\net6.0\FluentBuilderExample.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\bin\Debug\net6.0\FluentBuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\bin\Debug\net6.0\ref\FluentBuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\bin\Debug\net6.0\FluentBuilderExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\ref\FluentBuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\FluentBuilderExample\obj\Debug\net6.0\FluentBuilderExample.genruntimeconfig.cache

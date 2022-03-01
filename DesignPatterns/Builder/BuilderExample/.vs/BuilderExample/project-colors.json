@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06006a86-b999-461a-9506-1ab5cd40c740": {
+      "ProjectGuid": "06006a86-b999-461a-9506-1ab5cd40c740",
+      "DisplayName": "BuilderExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

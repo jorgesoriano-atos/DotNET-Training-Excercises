@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c819c9f1-cf5b-4fe5-aa24-8dba528667bd": {
+      "ProjectGuid": "c819c9f1-cf5b-4fe5-aa24-8dba528667bd",
+      "DisplayName": "FluentBuilderExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

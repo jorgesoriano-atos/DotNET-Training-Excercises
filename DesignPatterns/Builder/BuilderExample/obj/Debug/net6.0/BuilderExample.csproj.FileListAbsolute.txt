@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\bin\Debug\net6.0\BuilderExample.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\bin\Debug\net6.0\BuilderExample.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\bin\Debug\net6.0\BuilderExample.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\bin\Debug\net6.0\BuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\bin\Debug\net6.0\ref\BuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\bin\Debug\net6.0\BuilderExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\ref\BuilderExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Builder\BuilderExample\obj\Debug\net6.0\BuilderExample.genruntimeconfig.cache
