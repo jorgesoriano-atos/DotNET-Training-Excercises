@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6E1hc8O+C7eOVTEh6kaZaMydvr0+L3W2Pm6i5TCqrmDquvbhM1A8chR9UG3inmGBmVfRfa/G4tM7ZF/0Te65jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a846809\\Documents\\Git\\DotnetTrainingExercises\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a846809\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
