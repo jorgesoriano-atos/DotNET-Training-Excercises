@@ -1,7 +1,5 @@
 ﻿using Prototype.Prototypes;
 using System.Text.Json;
-using System.Text.Json.Serialization;
-using Prototype;
 
 namespace Prototype.ConcretePrototype
 {

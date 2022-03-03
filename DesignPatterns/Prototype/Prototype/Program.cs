@@ -1,6 +1,4 @@
 ﻿using Prototype.ConcretePrototype;
-using Prototype.Prototypes;
-using System.Collections.Generic;
 
 
 //Instantitation of Original color and making a shallow copy of it.
