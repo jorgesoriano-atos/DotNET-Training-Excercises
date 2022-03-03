@@ -2,7 +2,6 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using Prototype;
-//using Newtonsoft.Json;
 
 namespace Prototype.ConcretePrototype
 {
@@ -11,6 +10,7 @@ namespace Prototype.ConcretePrototype
         public string Name { get; set; }
         public RGB RGB { get; set; }
 
+        public Color() { }
         public Color(string name, int[] rgbValues)
         {
 
@@ -20,11 +20,7 @@ namespace Prototype.ConcretePrototype
         }
         public override ColorPrototype DeepClone()
         {
-            /*string JSONString = JsonConvert.SerializeObject(this);
-            return (ColorPrototype)JsonConvert.DeserializeObject<Color>(JSONString);*/
             string JSONString = JsonSerializer.Serialize(this);
-            Console.WriteLine(JSONString);
-            Color colorTest = JsonSerializer.Deserialize<Color>(JSONString);
             return (ColorPrototype)JsonSerializer.Deserialize<Color>(JSONString);
         }
 

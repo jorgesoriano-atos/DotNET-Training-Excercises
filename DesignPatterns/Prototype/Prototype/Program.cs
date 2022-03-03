@@ -1,39 +1,47 @@
-﻿
-using Prototype.ConcretePrototype;
+﻿using Prototype.ConcretePrototype;
 using Prototype.Prototypes;
 using System.Collections.Generic;
 
+
 //Instantitation of Original color and making a shallow copy of it.
-Console.WriteLine("Instantiation of original color and shallow cloning.");
+Console.WriteLine("Instantiation of original color and shallow cloning:\n");
 Color OriginalRed = new Color("Red", new int[] { 255, 0, 0 });
 Color ShallowRed = (Color)OriginalRed.ShallowClone();
 
-Console.WriteLine(OriginalRed.ToString());
-Console.WriteLine(ShallowRed.ToString());
+Console.WriteLine($"\t{OriginalRed.ToString()}");
+Console.WriteLine($"\t{ShallowRed.ToString()}");
+
+
+
+//Console.WriteLine("\n-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/\n");
 
 //Altering shallow copy values.
-Console.WriteLine("Altering values of shallow copy in turn alters original referencial values such as RGB values.");
-ShallowRed.Name = "Shallow Copied Red";
+Console.WriteLine("\nAltering values of shallow copy in turn alters original referencial values such as RGB values:\n");
+ShallowRed.Name = "Shallow Red";
 ShallowRed.RGB.Green = 30;
 ShallowRed.RGB.Blue = 30;
 
-Console.WriteLine(OriginalRed.ToString());
-Console.WriteLine(ShallowRed.ToString());
+Console.WriteLine($"\t{OriginalRed.ToString()}");
+Console.WriteLine($"\t{ShallowRed.ToString()}");
 
+
+
+Console.WriteLine("\n\n-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/*-/\n\n");
 
 //Instantitation of Original color and making a deep copy of it.
-Console.WriteLine("Instantiation of original color and deep cloning.");
+Console.WriteLine("Instantiation of original color and deep cloning:\n");
 Color OriginalGreen = new Color("Green", new int[] { 0, 255, 0 });
-Color DeepGreen = OriginalGreen.DeepClone() as Color;
+Color DeepGreen = (Color)OriginalGreen.DeepClone();
 
-Console.WriteLine(OriginalRed.ToString());
-Console.WriteLine(DeepGreen.ToString());
+Console.WriteLine($"\t{OriginalRed.ToString()}");
+Console.WriteLine($"\t{DeepGreen.ToString()}");
 
 //Altering Deep copy values.
-Console.WriteLine("Altering values of shallow copy in turn alters original referencial values such as RGB values.");
-DeepGreen.Name = "Shallow Copied Red";
-DeepGreen.RGB.Green = 30;
-DeepGreen.RGB.Blue = 30;
+Console.WriteLine("\nAltering values of deep copy does not alter the original object because in the new one RGB values " +
+    "\nare not referencing the RGB values instance of the old object, but are their own new instance:\n");
+DeepGreen.Name = "Deep Green";
+DeepGreen.RGB.Green = 150;
 
-Console.WriteLine(OriginalGreen.ToString());
-Console.WriteLine(DeepGreen.ToString());
+
+Console.WriteLine($"\t{OriginalGreen.ToString()}");
+Console.WriteLine($"\t{DeepGreen.ToString()}\n\n\n\n\n");
