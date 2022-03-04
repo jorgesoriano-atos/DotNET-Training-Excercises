@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
