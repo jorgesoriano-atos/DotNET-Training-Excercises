@@ -31,7 +31,7 @@ Console.WriteLine("Instantiation of original color and deep cloning:\n");
 Color OriginalGreen = new Color("Green", new int[] { 0, 255, 0 });
 Color DeepGreen = (Color)OriginalGreen.DeepClone();
 
-Console.WriteLine($"\t{OriginalRed.ToString()}");
+Console.WriteLine($"\t{OriginalGreen.ToString()}");
 Console.WriteLine($"\t{DeepGreen.ToString()}");
 
 //Altering Deep copy values.
