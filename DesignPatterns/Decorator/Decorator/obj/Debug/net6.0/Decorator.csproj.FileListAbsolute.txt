@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\bin\Debug\net6.0\ref\Decorator.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\ref\Decorator.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\DesignPatterns\Decorator\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache

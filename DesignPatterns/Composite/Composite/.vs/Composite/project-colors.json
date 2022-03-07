@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09b8de64-b15c-454a-9cc2-fc3e22a6a200": {
+      "ProjectGuid": "09b8de64-b15c-454a-9cc2-fc3e22a6a200",
+      "DisplayName": "Composite",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
