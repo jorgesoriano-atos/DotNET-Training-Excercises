@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\bin\Debug\net6.0\OpenClosed.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\bin\Debug\net6.0\OpenClosed.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\bin\Debug\net6.0\OpenClosed.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\bin\Debug\net6.0\OpenClosed.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\bin\Debug\net6.0\ref\OpenClosed.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\bin\Debug\net6.0\OpenClosed.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\SOLIDPrinciples\O\OpenClosed\obj\Debug\net6.0\OpenClosed.genruntimeconfig.cache
