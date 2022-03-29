@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestLibrary
 {
+    //Sample stove class
+
     public class Stove
     {
         private readonly string Brand;

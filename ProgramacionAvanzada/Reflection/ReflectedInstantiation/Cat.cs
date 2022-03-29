@@ -2,6 +2,8 @@
 
 namespace ReflectedInstantiation
 {
+    //Sample cat class
+
     public class Cat
     {
         public string FurColor { get; set; }

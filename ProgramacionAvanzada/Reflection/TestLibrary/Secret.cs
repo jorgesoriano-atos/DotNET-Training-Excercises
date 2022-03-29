@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestLibrary
 {
+    //Sample secret class
+
     internal class Secret
     {
         private string SecretText;

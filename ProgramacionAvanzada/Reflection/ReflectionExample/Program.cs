@@ -9,6 +9,7 @@ namespace ReflectionExample
     {
         static void Main(string[] args)
         {
+            // These are the Assemblies needed for the examples; ExternalAssembly for example 1 and 3, and Reflected... for 2nd example.
             var ExternalAssembly = Assembly.LoadFrom(@"C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\TestLibrary\bin\Debug\net5.0\ExternalAssembly.dll");
             var ReflectedInstantiationAssembly = Assembly.LoadFrom(@"C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\bin\Debug\net5.0\ReflectedInstantiation.dll");
 
@@ -20,14 +21,18 @@ namespace ReflectionExample
 
         }
 
+        // Function that serves as an example of reflection basics.
         public static void NormalTest(Assembly assembly)
         {
+            //Get all types in assembly
             foreach (var type in assembly.GetTypes())
             {
                 Console.WriteLine("\n------------------------ T Y P E ------------------------\n");
 
                 Console.WriteLine($"Type: {type.Name}");
 
+                //Inside each type get all fields
+                //Inside each type get all fields
                 foreach (var field in type.GetFields(
                     BindingFlags.NonPublic |
                     BindingFlags.Public |
@@ -40,6 +45,7 @@ namespace ReflectionExample
 
                 Console.WriteLine();
 
+                //Inside each type get all methods
                 foreach (var method in type.GetMethods(
                     BindingFlags.NonPublic |
                     BindingFlags.Public |
@@ -55,6 +61,7 @@ namespace ReflectionExample
             }
         }
 
+        // Function that serves as an example of using generic classes with reflected objects.
         public static void GenericClassTest(Assembly assembly) 
         {
 
@@ -71,6 +78,7 @@ namespace ReflectionExample
             }
         }
 
+        // Function that serves as an example of instantiating a reflected object.
         public static void InstantiationTest(Assembly assembly)
         {
             var instance = Activator.CreateInstance(assembly.GetTypes()[0]);

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestLibrary
 {
+    //Sample ant class
     public class Ant
     {
         private Secret AntSecret;
