@@ -1,0 +1,16 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ExternalAssembly.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ExternalAssembly.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ExternalAssembly.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ExternalAssembly.runtimeconfig.dev.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ExternalAssembly.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ref\ExternalAssembly.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\bin\Debug\net5.0\ExternalAssembly.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ref\ExternalAssembly.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.genruntimeconfig.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ExternalAssembly\obj\Debug\net5.0\ExternalAssembly.csproj.AssemblyReference.cache

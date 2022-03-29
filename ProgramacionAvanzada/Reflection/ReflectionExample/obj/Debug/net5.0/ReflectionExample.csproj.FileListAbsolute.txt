@@ -1,0 +1,15 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ReflectionExample.exe
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ReflectionExample.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ReflectionExample.runtimeconfig.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ReflectionExample.runtimeconfig.dev.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ReflectionExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ref\ReflectionExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\bin\Debug\net5.0\ReflectionExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ref\ReflectionExample.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectionExample\obj\Debug\net5.0\ReflectionExample.genruntimeconfig.cache

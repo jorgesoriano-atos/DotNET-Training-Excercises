@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz4q0PguZCV/U4GpRSoQQa4NicDYYSo5btEKj5Z5pGZxv+2Jrlg/jGeyx8lvZEAQOwL2tawF/ykkX4xlyRy1dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a846809\\Documents\\Git\\DotnetTrainingExercises\\ProgramacionAvanzada\\Reflection\\ReflectionExample\\ReflectionExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a846809\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

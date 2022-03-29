@@ -1,0 +1,11 @@
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\bin\Debug\net5.0\ReflectedInstantiation.deps.json
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\bin\Debug\net5.0\ReflectedInstantiation.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\bin\Debug\net5.0\ref\ReflectedInstantiation.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\bin\Debug\net5.0\ReflectedInstantiation.pdb
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ReflectedInstantiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ReflectedInstantiation.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ReflectedInstantiation.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ReflectedInstantiation.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ReflectedInstantiation.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ref\ReflectedInstantiation.dll
+C:\Users\a846809\Documents\Git\DotnetTrainingExercises\ProgramacionAvanzada\Reflection\ReflectedInstantiation\obj\Debug\net5.0\ReflectedInstantiation.pdb
