@@ -17,7 +17,7 @@ namespace ReflectionExample
 
             //InstantiationTest(ReflectedInstantiationAssembly);
 
-            //GenericClassTest(ExternalAssembly);
+            GenericClassTest(ExternalAssembly);
 
         }
 
@@ -87,8 +87,8 @@ namespace ReflectionExample
             instance.GetType().GetMethod("Meow").Invoke(instance, null);
             //instance.GetType().GetMethod("Meow2").Invoke(instance, null);
 
-            //instance.GetType().GetProperty("FurColor").SetValue(instance, "Red");
-            //instance.GetType().GetMethod("Meow").Invoke(instance, null);
+            instance.GetType().GetProperty("FurColor").SetValue(instance, "Striped");
+            instance.GetType().GetMethod("Meow").Invoke(instance, null);
             
 
 

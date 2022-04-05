@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2QgnR63jtPobKUZm4z/hWF9aQo93rpGFLvYjTA4fjYfnZ3BZHi6mC2qUNZ++wY+drbYp769SWULbojfp7S/6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a846809\\Documents\\Git\\DotnetTrainingExercises\\WebAPI\\FirstWebAPI\\FirstWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a846809\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

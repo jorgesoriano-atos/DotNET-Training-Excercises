@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "effac5d4-ce05-4e18-b590-c54ccc060c7b": {
+      "ProjectGuid": "effac5d4-ce05-4e18-b590-c54ccc060c7b",
+      "DisplayName": "ReflectionExample",
+      "ColorIndex": 0
+    },
+    "8a4199b5-ac41-4763-af32-e00477baeef7": {
+      "ProjectGuid": "8a4199b5-ac41-4763-af32-e00477baeef7",
+      "DisplayName": "ExternalAssembly",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "18c932c7-40f1-4e95-bc5d-c662de6eb454": {
+      "ProjectGuid": "18c932c7-40f1-4e95-bc5d-c662de6eb454",
+      "DisplayName": "ExternalAssembly",
+      "ColorIndex": 2
+    },
+    "f95351dc-39e2-452a-917c-a8320edfd611": {
+      "ProjectGuid": "f95351dc-39e2-452a-917c-a8320edfd611",
+      "DisplayName": "ReflectedInstantiation",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
