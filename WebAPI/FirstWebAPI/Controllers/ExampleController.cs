@@ -8,6 +8,8 @@ namespace FirstWebAPI.Controllers
     [ApiController]
     public class ExampleController : ControllerBase
     {
+
+        //GET TO https://localhost:44332/api/Example/12
         [HttpGet("{id}")]
         public string Get(int id)
         {
@@ -15,6 +17,8 @@ namespace FirstWebAPI.Controllers
             return id.ToString();
         }
 
+
+        //POST TO https://localhost:44332/api/Example
         [HttpPost]
         public string Post(SampleDTO sample)
         {
