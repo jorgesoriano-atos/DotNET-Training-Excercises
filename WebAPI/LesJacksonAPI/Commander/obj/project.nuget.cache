@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1BfiVZz7AhhQNBke4mfvZ9cFqOkcs25OH2vzrtPknRsoUvFFLTaRpdQu0XhFa8420sHMv3s0MRsTQVvt4Rkzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Soria\\source\\repos\\DotNET-Training-Excercises\\WebAPI\\LesJacksonAPI\\Commander\\Commander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soria\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Soria\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Soria\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Soria\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Soria\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Soria\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
